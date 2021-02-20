@@ -1,0 +1,8 @@
+{
+  "extends": "../tsconfig",
+  "compilerOptions": {
+    "noEmit": true,
+    "module": "commonjs"
+  },
+  "references": [{ "path": ".." }]
+}
